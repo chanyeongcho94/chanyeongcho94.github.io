@@ -23,9 +23,9 @@ repository               : "chanyeongcho94/chanyeongcho94.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ccprofile.jpg"
   name             : "Chanyeong Cho"
-  pronouns         : "he/his"  
+  pronouns         : "Robot Researcher"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Korea"
   employer         : #"Red Brick University"
