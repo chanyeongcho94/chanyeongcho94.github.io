@@ -12,7 +12,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
 ・I received my B.S. degree in Mechanical Systems Engineering from Shinshu University, Japan, where I specialized in robotics and control systems, working under the supervision of [Prof. Kimitoshi Yamazaki](https://www.rs.mech.tohoku.ac.jp/?page_id=168) and [Asst. Prof. Yang Tian.](https://soar-rd.shinshu-u.ac.jp/search/detail.html?systemId=jFfhbUkh&lang=en&st=researcher)
 
-・I spent one year at California State University, Sacramento, as an exchange student, studying robotic systems and control with [Prof. Rohollah Moghadam.](https://www.csus.edu/faculty/m/moghadam/)
+・I spent one year at California State University, Sacramento, as an exchange student, studying robotic systems and control with [Asst. Prof. Rohollah Moghadam.](https://www.csus.edu/faculty/m/moghadam/)
 
 ・I am currently <strong>applying for Ph.D. programs in the United States,</strong> exploring how robots can understand and support people.
 
@@ -51,7 +51,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/Animation12345.gif" alt="plug insertion">
   <div>
     <b>Sensor-Free Plug-Insertion Learning in Isaac Gym</b><br>
-    Demonstrated adaptive, human-like manipulation with 83% success.
+    Demonstrated adaptive, human-like manipulation with 83% success.</br><br>[paper(jp)]</br>
   </div>
 </div>
 
