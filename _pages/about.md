@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Intro"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ![Illustration of combining](/images/nhkrobot.webp){: .align-right width="280px"} 
 Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
-・I completed my undergraduate studies in Mechanical Systems Engineering in Japan, where I focused on robotics and control systems.
+・I received my B.S. degree in Mechanical Systems Engineering from Shinshu University, Japan, where I specialized in robotics and control systems, working under the supervision of [Prof. Kimitoshi Yamazaki](https://www.rs.mech.tohoku.ac.jp/?page_id=168) and [Asst. Prof. Yang Tian.](https://soar-rd.shinshu-u.ac.jp/search/detail.html?systemId=jFfhbUkh&lang=en&st=researcher)
 
 ・Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
 
@@ -20,6 +20,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 My Research Interest
 ======
 My research interests lie in human–robot interaction, reinforcement learning, and assistive robotics, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
+My goal is to help create a society where robots naturally support older adults, people with disabilities, and their families in daily life.
 
 <style>
 .work-block {
