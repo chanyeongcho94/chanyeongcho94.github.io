@@ -24,10 +24,12 @@ My research interests lie in human–robot interaction, reinforcement learning, 
 My Works
 ======
 ## 2025
+
 ![pic](/images/go2robottian.jpg){: .align-left width="250px"}
 Autonomous Patrol Robot Using Unitree Go2
 
 ## 2024
+
 ![pic](/images/Animation12345.gif){: .align-left width="250px"}
 Built Sensor-Free plug-insertion movement using the Franka arm in Isaac Gym.  
 
@@ -36,10 +38,13 @@ Built Sensor-Free plug-insertion movement using the Franka arm in Isaac Gym.
 ## 2023
 
 ## 2022
-![pic](/images/toiosonoy.gif){: .align-left width="250px"}
+
+![pic](/images/toiosonoy1.gif){: .align-left width="250px"}
+
 ![pic](/images/nhkrobo.jpg){: .align-left width="250px"}
 
 ## 2021
+
 ![pic](/images/citizenintern.jpg){: .align-left width="250px"}
 Internship at CITIZEN FineDevice (Japan)
 Assisted in research and development of the OpECS (Optical Probe Electric Current Sensor)
