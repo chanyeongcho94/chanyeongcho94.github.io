@@ -21,37 +21,68 @@ My Research Interest
 ======
 My research interests lie in human–robot interaction, reinforcement learning, and assistive robotics, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
 
-My Works
-======
-## 2025
+<style>
+.work-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.work-block img {
+  width: 250px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+</style>
 
-![pic](/images/go2robottian.jpg){: .align-left width="250px"}
-Autonomous Patrol Robot Using Unitree Go2
-Developed an autonomous patrol system with Isaac Lab to prevent wildlife intrusions.
+# My Works
+## 2025
+<div class="work-block">
+  <img src="/images/go2robottian.jpg" alt="Go2 patrol robot">
+  <div>
+    <b>Autonomous Patrol Robot Using Unitree Go2</b><br>
+    Developed an autonomous patrol system with Isaac Lab to prevent wildlife intrusions.
+  </div>
+</div>
 
 ## 2024
+<div class="work-block">
+  <img src="/images/Animation12345.gif" alt="plug insertion">
+  <div>
+    <b>Sensor-Free Plug-Insertion Learning in Isaac Gym</b><br>
+    Demonstrated adaptive, human-like manipulation with 83% success.
+  </div>
+</div>
 
-![pic](/images/Animation12345.gif){: .align-left width="250px"}
-Sensor-Free Plug-Insertion Learning in Isaac Gym
-Demonstrated adaptive, human-like manipulation with 83% success.
-
-![pic](/images/icra2.jpg){: .align-left width="250px"}
-ICRA 2024 (Moonshot Goal 3 Booth)
-Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
-
-## 2023
+<div class="work-block">
+  <img src="/images/icra2.jpg" alt="ICRA booth">
+  <div>
+    <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
+    Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+  </div>
+</div>
 
 ## 2022
+<div class="work-block">
+  <img src="/images/toiosonoy1.gif" alt="toio robot game">
+  <div>
+    <b>Interactive Multi-Robot Game with Sony’s “toio” Platform</b><br>
+    Created a chase-and-evade game for children’s interactive learning.
+  </div>
+</div>
 
-![pic](/images/toiosonoy1.gif){: .align-left width="250px"}
-Interactive Multi-Robot Game with Sony’s “toio” Platform
-Creating a chase-and-evade game for children’s interactive learning.
-
-![pic](/images/nhkrobo.jpg){: .align-left width="250px"}
-
+<div class="work-block">
+  <img src="/images/nhkrobo.jpg" alt="NHK robot">
+  <div>
+    <b>NHK Robocon</b><br>
+    Designed and built a competition robot as part of a 14-person team.
+  </div>
+</div>
 
 ## 2021
-
-![pic](/images/citizenintern.jpg){: .align-left width="250px"}
-Internship at CITIZEN FineDevice (Japan)
-Assisted in research and development of the OpECS (Optical Probe Electric Current Sensor)
+<div class="work-block">
+  <img src="/images/citizenintern.jpg" alt="CITIZEN internship">
+  <div>
+    <b>Internship at CITIZEN FineDevice (Japan)</b><br>
+    Assisted in research and development of the OpECS (Optical Probe Electric Current Sensor).
+  </div>
+</div>
