@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining](/images/nhkrobot.webp)Currently applying for Ph.D. programs in the United States.
+![Illustration of combining](/images/nhkrobot.webp){: .align-right width="300px"} 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! This is Cha-nyeong Cho’s (조찬영) Academic Page.
+
+I completed my undergraduate studies in Mechanical Systems Engineering in Japan, where I focused on robotics and control systems.
+
+Having studied and conducted research across Korea, Japan, and the United States.
+
+I am currently applying for Ph.D. programs in the United States, exploring how robots can understand and support people.
+
 
 A data-driven personal website
 ======
