@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Chanyeong Cho"
+title                    : "Chanyeong Cho (Ris Cho)"
 title_separator          : "-"
 name                     : &name "Chanyeong Cho"
 description              : &description "Chanyeong's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,9 +25,10 @@ author:
   # Biographic information
   avatar           : "ccprofile.jpg"
   name             : "Chanyeong Cho"
-  pronouns         : "Robot Researcher"  
+  pronouns         : "Robot Researcher"
+  pronouns         : "趙贊泳(赵赞泳) | ジョ チャニョン"   
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "🇰🇷 Japan United States"
+  location         : "Korea Japan United States"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "gkdldy0904@gmail.com" 
@@ -61,7 +62,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : cha__nyeong
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
