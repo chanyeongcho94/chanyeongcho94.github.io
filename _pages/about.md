@@ -24,13 +24,18 @@ My research interests lie in human–robot interaction, reinforcement learning, 
 My Works
 ======
 ## 2025
-
 ![go2 robot in field](/images/go2robottian.jpg){: .align-left width="200px"}
-- Developed reinforcement learning policies for quadruped locomotion in Isaac Gym.  
-- Designed an assistive robot concept for elderly care, focusing on emotional interaction and safety.  
-- Collaborated on a human–robot interaction study between Japan and the U.S.
+Developed reinforcement learning policies for quadruped locomotion in Isaac Gym.  
+Designed an assistive robot concept for elderly care, focusing on emotional interaction and safety.  
+Collaborated on a human–robot interaction study between Japan and the U.S.
 
 ## 2024
-
+![go2 robot in field](/images/Animation12345.gif){: .align-left width="200px"}
 - Built a plug-insertion simulator using the Franka arm in Isaac Gym.  
 - Conducted comparative studies on multi-robot coordination and control in dynamic environments.
+
+## 2023
+
+## 2022
+
+## 2021
