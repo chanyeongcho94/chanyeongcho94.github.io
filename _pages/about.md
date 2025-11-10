@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining](/images/nhkrobot.webp){: .align-right width="300px"} 
+![Illustration of combining](/images/nhkrobot.webp){: .align-right width="280px"} 
 Hello! This is Cha-nyeong Cho’s (조찬영) Academic Page.
 
-I completed my undergraduate studies in Mechanical Systems Engineering in Japan, where I focused on robotics and control systems.
+・I completed my undergraduate studies in Mechanical Systems Engineering in Japan, where I focused on robotics and control systems.
 
-Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
+・Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
 
-I am currently applying for Ph.D. programs in the United States, exploring how robots can understand and support people.
+・I am currently applying for Ph.D. programs in the United States, exploring how robots can understand and support people.
 
 
 My Research Interest
