@@ -25,6 +25,7 @@ My Works
 ======
 ## 2025
 
+![go2 robot in field](/images/go2robottian.jpg){: .align-left width="200px"}
 - Developed reinforcement learning policies for quadruped locomotion in Isaac Gym.  
 - Designed an assistive robot concept for elderly care, focusing on emotional interaction and safety.  
 - Collaborated on a human–robot interaction study between Japan and the U.S.
