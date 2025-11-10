@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Illustration of combining](/images/nhkrobot.webp){: .align-right width="280px"} 
-Hello! This is Cha-nyeong Cho’s (조찬영) Academic Page.
+Hello! This is <strong>Cha-nyeong Cho’s (조찬영)<strong> Academic Page.
 
 ・I completed my undergraduate studies in Mechanical Systems Engineering in Japan, where I focused on robotics and control systems.
 
