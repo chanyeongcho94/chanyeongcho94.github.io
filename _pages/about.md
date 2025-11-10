@@ -27,21 +27,28 @@ My Works
 
 ![pic](/images/go2robottian.jpg){: .align-left width="250px"}
 Autonomous Patrol Robot Using Unitree Go2
+Developed an autonomous patrol system with Isaac Lab to prevent wildlife intrusions.
 
 ## 2024
 
 ![pic](/images/Animation12345.gif){: .align-left width="250px"}
-Built Sensor-Free plug-insertion movement using the Franka arm in Isaac Gym.  
+Sensor-Free Plug-Insertion Learning in Isaac Gym
+Demonstrated adaptive, human-like manipulation with 83% success.
 
 ![pic](/images/icra2.jpg){: .align-left width="250px"}
+ICRA 2024 (Moonshot Goal 3 Booth)
+Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
 
 ## 2023
 
 ## 2022
 
 ![pic](/images/toiosonoy1.gif){: .align-left width="250px"}
+Interactive Multi-Robot Game with Sony’s “toio” Platform
+Creating a chase-and-evade game for children’s interactive learning.
 
 ![pic](/images/nhkrobo.jpg){: .align-left width="250px"}
+
 
 ## 2021
 
