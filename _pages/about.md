@@ -12,7 +12,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
 ・I received my B.S. degree in Mechanical Systems Engineering from Shinshu University, Japan, where I specialized in robotics and control systems, working under the supervision of [Prof. Kimitoshi Yamazaki](https://www.rs.mech.tohoku.ac.jp/?page_id=168) and [Asst. Prof. Yang Tian.](https://soar-rd.shinshu-u.ac.jp/search/detail.html?systemId=jFfhbUkh&lang=en&st=researcher)
 
-・Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
+・I spent one year at California State University, Sacramento, as an exchange student, studying robotic systems and control with [Prof. Rohollah Moghadam.](https://www.csus.edu/faculty/m/moghadam/)
 
 ・I am currently <strong>applying for Ph.D. programs in the United States,</strong> exploring how robots can understand and support people.
 
@@ -20,6 +20,9 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 My Research Interest
 ======
 My research interests lie in human–robot interaction, reinforcement learning, and assistive robotics, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
+
+Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
+
 My goal is to help create a society where robots naturally support older adults, people with disabilities, and their families in daily life.
 
 <style>
