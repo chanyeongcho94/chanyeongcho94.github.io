@@ -24,18 +24,22 @@ My research interests lie in human–robot interaction, reinforcement learning, 
 My Works
 ======
 ## 2025
-![go2 robot in field](/images/go2robottian.jpg){: .align-left width="200px"}
-Developed reinforcement learning policies for quadruped locomotion in Isaac Gym.  
-Designed an assistive robot concept for elderly care, focusing on emotional interaction and safety.  
-Collaborated on a human–robot interaction study between Japan and the U.S.
+![pic](/images/go2robottian.jpg){: .align-left width="250px"}
+Autonomous Patrol Robot Using Unitree Go2
 
 ## 2024
-![go2 robot in field](/images/Animation12345.gif){: .align-left width="200px"}
-- Built a plug-insertion simulator using the Franka arm in Isaac Gym.  
-- Conducted comparative studies on multi-robot coordination and control in dynamic environments.
+![pic](/images/Animation12345.gif){: .align-left width="250px"}
+Built Sensor-Free plug-insertion movement using the Franka arm in Isaac Gym.  
+
+![pic](/images/icra2.jpg){: .align-left width="250px"}
 
 ## 2023
 
 ## 2022
+![pic](/images/toiosonoy.gif){: .align-left width="250px"}
+![pic](/images/nhkrobo.jpg){: .align-left width="250px"}
 
 ## 2021
+![pic](/images/citizenintern.jpg){: .align-left width="250px"}
+Internship at CITIZEN FineDevice (Japan)
+Assisted in research and development of the OpECS (Optical Probe Electric Current Sensor)
