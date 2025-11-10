@@ -21,8 +21,6 @@ My Research Interest
 ======
 My research interests lie in human–robot interaction, reinforcement learning, and assistive robotics, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
 
-Through my experiences in Korea, Japan, and the United States, I have come to view robotics not only as technology, but as a bridge that connects people and understanding.
-
 My goal is to help create a society where robots naturally support older adults, people with disabilities, and their families in daily life.
 
 <style>
