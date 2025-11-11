@@ -14,7 +14,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
 ・I spent one year at California State University, Sacramento, as an exchange student, studying robotic systems and control with [Asst. Prof. Rohollah Moghadam.](https://www.csus.edu/faculty/m/moghadam/)
 
-・I am currently <strong>applying for Ph.D. programs in the United States,</strong> exploring how robots can understand and support people.
+・I am currently <strong>applying for Ph.D. programs in the United States,</strong> exploring how robots can understand and support people. [CV](https://chanyeongcho.github.io/files/CV_Chanyeong.pdf)
 
 
 My Research Interest
@@ -92,7 +92,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/nhkrobo.jpg" alt="NHK robot">
   <div>
     <b>Robotics Club (Alps)</b><br>
-    Developed ROS-based control modules for the NHK national robotics contest, earning a Special Award and top-five national ranking.
+    Developed ROS-based control modules for Japan’s NHK national robotics contest, earning a Special Award and top-five national ranking.
     <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">[Video 1]</a>,
     <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">[Video 2]</a>
   </div>
