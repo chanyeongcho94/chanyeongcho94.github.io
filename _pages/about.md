@@ -91,8 +91,8 @@ My goal is to help create a society where robots naturally support older adults,
 <div class="work-block">
   <img src="/images/nhkrobo.jpg" alt="NHK robot">
   <div>
-    <b>NHK Robocon</b><br>
-    Designed and built a competition robot as part of a 14-person team.
+    <b>Robotics Club (Alps)</b><br>
+    Developed ROS-based control modules for the NHK national robotics contest, earning a Special Award and top-five national ranking.
     <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">[Video 1]</a>,
     <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">[Video 2]</a>
   </div>
