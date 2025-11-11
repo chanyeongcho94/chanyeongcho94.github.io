@@ -84,7 +84,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/toiosonoy1.gif" alt="toio robot game">
   <div>
     <b>Interactive Multi-Robot Game with Sony’s “toio” Platform</b><br>
-    Created a chase-and-evade game for children’s interactive learning.
+    Supported by Sony, developed a chase-and-evade game for children’s interactive learning.
   </div>
 </div>
 
