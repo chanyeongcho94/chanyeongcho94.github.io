@@ -51,7 +51,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/Animation12345.gif" alt="plug insertion">
   <div>
     <b>Sensor-Free Plug-Insertion Learning in Isaac Gym</b><br>
-    Demonstrated adaptive, human-like manipulation with 83% success.    <a href="https://chanyeongcho94.github.io/files/2024chanyeong.pdf" target="_blank" rel="noopener noreferrer">[paper(jp)]</a>
+    Achieved 83% success through motion-based learning that enabled adaptive, human-like behavior.    <a href="https://chanyeongcho94.github.io/files/2024chanyeong.pdf" target="_blank" rel="noopener noreferrer">[paper(jp)]</a>
   </div>
 </div>
 
