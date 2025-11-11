@@ -76,9 +76,12 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/nhkrobo.jpg" alt="NHK robot">
   <div>
     <b>NHK Robocon</b><br>
-    Designed and built a competition robot as part of a 14-person team. [Video1](https://youtu.be/6NpFKpYp1W0), [Video2](https://youtu.be/i3W8mxvuqH0)
+    Designed and built a competition robot as part of a 14-person team.
+    <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">Video 1</a>,
+    <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">Video 2</a>
   </div>
 </div>
+
 
 ## 2021
 <div class="work-block">
