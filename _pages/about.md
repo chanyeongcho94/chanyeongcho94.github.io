@@ -51,7 +51,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/Animation12345.gif" alt="plug insertion">
   <div>
     <b>Sensor-Free Plug-Insertion Learning in Isaac Gym</b><br>
-    Demonstrated adaptive, human-like manipulation with 83% success. [paper(jp)]</br>
+    Demonstrated adaptive, human-like manipulation with 83%     <a href="/images/FY2024_undergrad_chanyeong.pdf" target="_blank" rel="noopener noreferrer">[paper(jp)]</a>
   </div>
 </div>
 
@@ -77,8 +77,8 @@ My goal is to help create a society where robots naturally support older adults,
   <div>
     <b>NHK Robocon</b><br>
     Designed and built a competition robot as part of a 14-person team.
-    <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">Video 1</a>,
-    <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">Video 2</a>
+    <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">[Video 1]</a>,
+    <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">[Video 2]</a>
   </div>
 </div>
 
