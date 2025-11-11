@@ -65,18 +65,18 @@ My goal is to help create a society where robots naturally support older adults,
 
 ## 2022
 <div class="work-block">
-  <img src="/images/csus.PNG" alt="ICRA booth">
+  <img src="/images/csus.PNG" alt="jordan">
   <div>
-    <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
-    Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+    <b>Automatic-Parking Robot Project </b><br>
+    Built a motion-controlled robot using MATLAB and Arduino kits.
   </div>
 </div>
 
 <div class="work-block">
-  <img src="/images/beckhoff.jpg" alt="ICRA booth">
+  <img src="/images/beckhoff.jpg" alt="Beckhoff">
   <div>
-    <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
-    Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+    <b>Training: Beckhoff, Silicon Valley</b><br>
+    PLC & Motion Fundamentals focusing on industrial robot-arm control systems.
   </div>
 </div>
 
