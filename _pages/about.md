@@ -42,7 +42,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/go2robottian.jpg" alt="Go2 patrol robot">
   <div>
     <b>Autonomous Patrol Robot Using Unitree Go2</b><br>
-    Developed an autonomous patrol system with Isaac Lab to prevent wildlife intrusions.
+    Developed an autonomous patrol system with Isaac Lab to prevent wildlife intrusions with Prof. Tian’s lab.
   </div>
 </div>
 
