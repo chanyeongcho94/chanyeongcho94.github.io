@@ -51,7 +51,7 @@ My goal is to help create a society where robots naturally support older adults,
   <img src="/images/Animation12345.gif" alt="plug insertion">
   <div>
     <b>Sensor-Free Plug-Insertion Learning in Isaac Gym</b><br>
-    Demonstrated adaptive, human-like manipulation with 83%     <a href="https://academicpages.github.io/files/2024chanyeong.pdf" target="_blank" rel="noopener noreferrer">[paper(jp)]</a>
+    Demonstrated adaptive, human-like manipulation with 83%     <a href="https://chanyeongcho94.github.io/files/2024chanyeong.pdf" target="_blank" rel="noopener noreferrer">[paper(jp)]</a>
   </div>
 </div>
 
@@ -64,6 +64,22 @@ My goal is to help create a society where robots naturally support older adults,
 </div>
 
 ## 2022
+<div class="work-block">
+  <img src="/images/csus.PNG" alt="ICRA booth">
+  <div>
+    <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
+    Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+  </div>
+</div>
+
+<div class="work-block">
+  <img src="/images/beckhoff.jpg" alt="ICRA booth">
+  <div>
+    <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
+    Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+  </div>
+</div>
+
 <div class="work-block">
   <img src="/images/toiosonoy1.gif" alt="toio robot game">
   <div>
