@@ -94,7 +94,8 @@ My goal is to help create a society where robots naturally support older adults,
     <b>Robotics Club (Alps)</b><br>
     Developed ROS-based control modules for Japan’s NHK national robotics contest, earning a Special Award and top-five national ranking.
     <a href="https://youtu.be/6NpFKpYp1W0" target="_blank" rel="noopener noreferrer">[Video 1]</a>,
-    <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">[Video 2]</a>
+    <a href="https://youtu.be/i3W8mxvuqH0" target="_blank" rel="noopener noreferrer">[Video 2]</a>,
+    <a href="https://www.youtube.com/watch?v=qQ5GjLuc_4Y" target="_blank" rel="noopener noreferrer">[Video 3]</a>
   </div>
 </div>
 
