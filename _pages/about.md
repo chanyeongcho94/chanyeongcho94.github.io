@@ -56,10 +56,26 @@ My goal is to help create a society where robots naturally support older adults,
 </div>
 
 <div class="work-block">
+  <img src="/images/nhk2024.jpg" alt="nhk2024">
+  <div>
+    <b>Robotics Club (Alps)</b><br>
+    Earning a Special Award again from Panasonic in Japan’s NHK national robotics contest
+  </div>
+</div>
+
+<div class="work-block">
   <img src="/images/icra2.jpg" alt="ICRA booth">
   <div>
     <b>ICRA 2024 (Moonshot Goal 3 Booth)</b><br>
     Showcased a dressing-assist robot with Prof. Yamazaki’s lab.
+  </div>
+</div>
+
+<div class="work-block">
+  <img src="/images/talkchan.jpg" alt="talk">
+  <div>
+    <b>Invited Speaker, Il GONG Education Group</b><br>
+    Gave a public talk on academic and research experiences in Japan and the United States to encourage students interested in studying abroad.
   </div>
 </div>
 
