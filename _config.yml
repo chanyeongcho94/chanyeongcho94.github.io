@@ -23,7 +23,7 @@ repository               : "chanyeongcho94/chanyeongcho94.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ccprofile.jpg"
+  avatar           : "cccprofile.jpg"
   name             : "Chanyeong Cho"
   pronouns         : "Robot Researcher<br>조찬영 (趙贊泳|赵赞泳)<br>ジョ チャニョン"
   bio              : #"Short biography for the left-hand sidebar"
