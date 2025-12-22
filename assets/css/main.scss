@@ -3,7 +3,7 @@
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
- * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import "vendor/breakpoint/breakpoint",
@@ -38,26 +38,3 @@
 "vendor/font-awesome/solid",
 "vendor/font-awesome/brands"
 ;
-
-/* =========================================================
-   Avatar size override (ADD THIS PART)
-   ========================================================= */
-
-/* Desktop / default */
-.sidebar .author__avatar img,
-.author__avatar img {
-  width: 280px !important;
-  height: 280px !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-
-  .sidebar .author__avatar img,
-  .author__avatar img {
-    width: 230px !important;
-    height: 230px !important;
-  }
-}
