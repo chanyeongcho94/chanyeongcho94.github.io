@@ -19,7 +19,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
 My Research Interest
 ======
-My research interests lie in human–robot interaction, reinforcement learning, and assistive robotics, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
+My research interests lie in human–robot interaction, assistive robotics, and reinforcement learning, with a focus on developing emotionally responsive systems that enhance daily living and caregiving.
 
 My goal is to help create a society where robots naturally support older adults, people with disabilities, and their families in daily life.
 
