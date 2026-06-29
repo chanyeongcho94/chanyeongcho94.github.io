@@ -14,7 +14,7 @@ Hello! This is <strong>Cha-nyeong Cho’s</strong> Academic Page.
 
 ・I spent one year at California State University, Sacramento, as an exchange student, studying robotic systems and control with [Asst. Prof. Rohollah Moghadam.](https://www.csus.edu/faculty/m/moghadam/)
 
-・My CV is here! [[CV]](/files/CV_Chanyeong.pdf)
+・My documents are here! [[CV]](/files/CV_Chanyeong.pdf) [[SOP]](/files/SOP_Chanyeong.pdf) [[Experience(KOR)]](/files/Experience(KOR).pdf)
 
 
 My Research Interest
